@@ -2,7 +2,7 @@
 
 set -e
 
-PROJECT_BASE_PATH='/usr/local/apps/profiles-rest-api/profiles_project/'
+PROJECT_BASE_PATH='/usr/local/apps/profiles-rest-api'
 
 cd $PROJECT_BASE_PATH
 git pull
